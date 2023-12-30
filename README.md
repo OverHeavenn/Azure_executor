@@ -8,6 +8,7 @@
 
 # About Azure 👩‍💻
 <br>
+Made with Code ❌ Made with love ❤
 Azure is an Open-Source, lightweight script injector and executor for Roblox. It's written in C# and it's being actively developed!
 <br>
 Based on Fluxus
